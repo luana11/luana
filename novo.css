@@ -1,0 +1,46 @@
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    display: flex;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: grey;
+    padding: 0 50px;
+}
+LI{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.logo{
+    max-width: 150px;
+}
+img{
+    max-width: 100%;
+}
+div{
+    margin-top: 100px;
+
+}
+body{
+    margin: 0;
+}
+section{
+    display:flex;
+    max-width: 960px; 
+   margin: 0 auto;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+section div{
+    margin: 20;
+    flex: 1 1 200px;
+}
+section div img {
+
+}
